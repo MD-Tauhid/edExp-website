@@ -1,0 +1,13 @@
+.faq-width{
+    width: 772px;
+    height: auto;
+    justify-content: center;
+    margin: 10px auto 10px auto;
+}
+
+@media only screen and (max-width: 767px) {
+    .faq-width{
+        width: auto;
+    }
+
+}
