@@ -16,8 +16,8 @@
         height: 180px;
     }
 }
-@media screen and (max-width: 991px) {
+@media only screen and (max-width: 991px) and (min-width: 768px) {
     .cvr-height{
-        height: 260px;
+        height: 360px;
     }
 }
